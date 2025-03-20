@@ -21,7 +21,7 @@ A Streamlit application that analyzes GitHub repositories for security vulnerabi
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/secure-code-analyzer.git
+   git clone https://github.com/anwar273/AI-Secure-Code-Analyzer-Deployment-Agent.git
    cd secure-code-analyzer
    ```
 
